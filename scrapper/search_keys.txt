@@ -1,0 +1,13 @@
+
+                                Search key words google scholar
+----------------------------------------------------------------------------------------------------------------------------
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning+and+diabetic+retinopathy+classification+or+diagnosis&btnG=
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=deep+learning+and+diabetic+retinopathy+classification+or+diagnosis&btnG=
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=artificial+intelligence+and+diabetic+retinopathy+classification+or+diagnosis&btnG=
+----------------------------------------------------------------------------------------------------------------------------
+
+                                Search key words pubmed
+----------------------------------------------------------------------------------------------------------------------------
+https://www.ncbi.nlm.nih.gov/pubmed/?term=machine+learning+and+diabetic+retinopathy+classification+or+diagnosis
+https://www.ncbi.nlm.nih.gov/pubmed/?term=deep+learning+and+diabetic+retinopathy+classification+or+diagnosis
+https://www.ncbi.nlm.nih.gov/pubmed/?term=artificial+intelligence+and+diabetic+retinopathy+classification+or+diagnosis
